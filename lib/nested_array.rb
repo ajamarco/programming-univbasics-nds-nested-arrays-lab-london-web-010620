@@ -39,3 +39,9 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
 end
 
+new_array = [
+  [1,2,3],
+  [4,5,6],
+  [7,8,9]
+  ]
+p new_array[2][1]
