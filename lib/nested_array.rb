@@ -44,4 +44,4 @@ new_array = [
   [4,5,6],
   [7,8,9]
   ]
-puts new_array
+p new_array
